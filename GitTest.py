@@ -18,9 +18,5 @@ def multiply(a, b):
     return a*b
 
 
-def rename(a):
-    return a
-
-
 
 
