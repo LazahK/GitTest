@@ -18,3 +18,5 @@ b = subtract(10, 4)
 print(b)
 
 print(b)
+
+print(b)
