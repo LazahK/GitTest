@@ -15,8 +15,7 @@ def subtract(a, b):
 b = subtract(10, 4)
 
 
-print(b)
+def printName(a):
+    print(a)
 
-print(b)
 
-print(b)
